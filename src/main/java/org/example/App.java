@@ -4,7 +4,6 @@ package org.example;
  * Hello world!
  *
  */
-import lombok.var;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 public class App
 {

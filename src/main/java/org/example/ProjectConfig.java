@@ -1,6 +1,5 @@
 package org.example;
 
-import lombok.var;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
